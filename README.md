@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying **computer science engineering**
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Javascript, React**
 
