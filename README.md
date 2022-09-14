@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, React**
 
-- ⚡ Fun fact **I think I a Developer**
+- ⚡ Fun fact **I think I'm a Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
